@@ -20,9 +20,9 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, () => {
     console.log('========================================');
-    console.log('        ORION-MD — ONLINE');
+    console.log('        『 — ONLINE');
     console.log('        Port: ' + PORT);
-    console.log('        MADE IN BY INCONNU BOY SENSEI');
+    console.log('        MADE IN BY 𝐄𝐦𝐦𝐚𝐧𝐮𝐞𝐥');
     console.log('========================================');
 });
 
