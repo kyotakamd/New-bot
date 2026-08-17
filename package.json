@@ -1,7 +1,7 @@
 {
-  "name": "『𝐎𝐑𝐈𝐎𝐍 𝐌𝐃』",
+  "name": "『𝐊𝐈𝐘𝐎 𝐌𝐃』",
   "version": "2.0.0",
-  "description": "『𝐎𝐑𝐈𝐎𝐍 𝐌𝐃』 — Open-source WhatsApp bot with a multi-device pairing system, a plugin architecture, and a clean single-server web UI.",
+  "description": "『𝐊𝐈𝐘𝐎 𝐌𝐃』 — Open-source WhatsApp bot with a multi-device pairing system, a plugin architecture, and a clean single-server web UI.",
   "main": "index.js",
   "scripts": {
     "start": "node --expose-gc index.js"
@@ -32,7 +32,7 @@
     "bot",
     "multi-device",
     "baileys",
-    "『𝐎𝐑𝐈𝐎𝐍 𝐌𝐃』"
+    "『𝐊𝐈𝐘𝐎 𝐌𝐃』"
   ],
   "author": "𝐼'𝑀 𝐸𝑚𝑚𝑎𝑛𝑢𝑒𝑙ᴸᴼᵛᴱᴿ『⁴⁴²』",
   "license": "MIT"
