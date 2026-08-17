@@ -22,7 +22,7 @@ app.listen(PORT, () => {
     console.log('========================================');
     console.log('        『 — ONLINE');
     console.log('        Port: ' + PORT);
-    console.log('        MADE IN BY 𝐄𝐦𝐦𝐚𝐧𝐮𝐞𝐥');
+    console.log('        MADE IN BY 『𝑰'𝒎 𝑬𝒎𝒎𝒂𝒏𝒖𝒆𝒍ᴸᴼᵛᴱᴿ』⁴⁴²');
     console.log('========================================');
 });
 
