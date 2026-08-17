@@ -1,11 +1,11 @@
-# ORION-MD
+# 『𝐊𝐈𝐘𝐎 𝐌𝐃』
 
-ORION-MD is an open-source, multi-device WhatsApp bot built on [Baileys](https://github.com/WhiskeySockets/Baileys). It pairs with WhatsApp using a phone-number pairing code (no QR scanning required), loads commands through a plugin system, and ships with a clean single-page web UI for pairing.
+『𝐊𝐈𝐘𝐎 𝐌𝐃』 is an open-source, multi-device WhatsApp bot built on [Baileys](https://github.com/WhiskeySockets/Baileys). It pairs with WhatsApp using a phone-number pairing code (no QR scanning required), loads commands through a plugin system, and ships with a clean single-page web UI for pairing.
 
 This repository is meant to be forked. The codebase is organized so you can find, understand, and extend any part of it without digging through one giant file.
 
 ```
-MADE IN BY INCONNU BOY SENSEI
+MADE IN BY 『𝑰'𝒎 𝑬𝒎𝒎𝒂𝒏𝒖𝒆𝒍ᴸᴼᵛᴱᴿ』⁴⁴²
 ```
 
 ---
@@ -13,7 +13,7 @@ MADE IN BY INCONNU BOY SENSEI
 ## Project structure
 
 ```
-ORION-MD/
+『𝐊𝐈𝐘𝐎 𝐌𝐃』/
 ├── index.js              # Entry point — single Express server
 ├── inconnu/               # Core bot engine
 │   ├── connection.js       # Session/pairing, socket lifecycle, built-in commands
@@ -92,7 +92,7 @@ ORION-MD/
 
 ## Included plugins
 
-ORION-MD ships with 15 plugins in `inconnuboy/`, covering the essentials: session/group protection, media conversion, downloaders, and search. This keeps the default install lean — add more plugins as you need them.
+『𝐊𝐈𝐘𝐎 𝐌𝐃』 ships with 15 plugins in `inconnuboy/`, covering the essentials: session/group protection, media conversion, downloaders, and search. This keeps the default install lean — add more plugins as you need them.
 
 | Plugin             | Commands                                   | What it does                                              |
 |---------------------|----------------------------------------------|---------------------------------------------------------------|
@@ -169,5 +169,5 @@ MIT — see `LICENSE`.
 ---
 
 ```
-MADE IN BY INCONNU BOY SENSEI
+MADE IN BY 『𝑰'𝒎 𝑬𝒎𝒎𝒂𝒏𝒖𝒆𝒍ᴸᴼᵛᴱᴿ』⁴⁴²
 ```
